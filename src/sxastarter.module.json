@@ -76,7 +76,7 @@
         "rules": [
           {
             "path": "/home",
-            "scope": "SingleItem",
+            "scope": "ItemAndDescendants",
             "allowedPushOperations": "CreateOnly"
           },
           {
