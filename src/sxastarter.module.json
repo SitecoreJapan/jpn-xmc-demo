@@ -114,6 +114,17 @@
             "scope": "Ignored"
           }
         ]
+      },
+      {
+        "name": "languages",
+        "path": "/sitecore/system/Languages/ja-JP",
+        "scope": "singleItem"
+      },
+      {
+        "name": "core-languages",
+        "path": "/sitecore/system/Languages/ja-JP",
+        "scope": "singleItem",
+        "database": "core"
       }
     ]
   }

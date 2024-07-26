@@ -1,16 +1,24 @@
 ﻿---
-ID: "663dafc9-c42d-462d-aa28-b1fd593efe85"
-Parent: "e51fa277-eca5-4718-a97e-d927821747b4"
-Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
-Path: /sitecore/content/sxastarter/sxastarter/Presentation/Page Designs/Default
+ID: "dbf3c90c-f606-4614-bccd-94124ec2b611"
+Parent: "64c4f646-a3fa-4205-b98e-4de2c609b60f"
+Template: "f68f13a6-3395-426a-b9a1-fa2dc60d94eb"
+Path: "/sitecore/system/Languages/ja-JP"
 SharedFields:
-- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
-  Hint: PartialDesigns
-  Value: "{B2FF1CE5-9AE1-4A45-8529-74728008DD23}|{FF758762-EA46-4901-937B-1E957134F5CE}"
-- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
-  Hint: __Thumbnail
-  Value: |
-    <image mediaid="{1BF8EBF0-7C50-4F3B-A401-660E225954D2}" />
+- ID: "0620f810-9294-4f14-af9f-f5772efca0b2"
+  Hint: Regional ISO Code
+  Value: "ja-JP"
+- ID: "49e5e8f3-ed4a-4a06-abe1-b9408951dee9"
+  Hint: Charset
+  Value: "iso-2022-jp"
+- ID: "8728d8ff-66d9-40c2-8b34-c4fc1466942e"
+  Hint: Encoding
+  Value: "utf-8"
+- ID: "990596ce-0024-43f3-bf4c-a991bfa69b45"
+  Hint: Code page
+  Value: 65001
+- ID: "c437e416-8948-427d-a982-8ed37ae3f553"
+  Hint: Iso
+  Value: ja
 Languages:
 - Language: en
   Versions:
@@ -18,7 +26,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240726T042757Z
+      Value: 20240726T053829Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -29,11 +37,11 @@ Languages:
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5e66ba9f-c8f2-42a6-8775-44bef4b5dcda"
+      Value: "d281c1a1-bfc2-4db0-84e6-004904fb9663"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\shinichi.haramizu@sitecore.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240726T042803Z
+      Value: 20240726T053829Z
